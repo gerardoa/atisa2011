@@ -1,0 +1,10 @@
+--Gateway
+Gets current temperature from thermometres
+Informs radiators about current temperature
+
+--Thermometer
+Measures temperature
+
+--Radiator
+Turns heating on and off
+
