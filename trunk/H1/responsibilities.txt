@@ -2,9 +2,17 @@
 Gets current temperature from thermometres
 Informs radiators about current temperature
 
+--GatewayService
+Make the gatway accesible over a network
+
 --Thermometer
 Measures temperature
 
---Radiator
-Turns heating on and off
+--Thermometer service
+Make the thermometer accesible over a network
 
+--Radiator
+Turns heating on and off depending on a given temperature
+
+--Radiator service
+Make the thermometer accesible over a network
