@@ -1,0 +1,35 @@
+Daniel Home Owner
+Ivan CEO of the HS07 manufacturing company
+Gerado Team leader of development team /Architect
+Martin Marketing Guy
+
+Availability:
+The system should be able to work for servereal years without breaking.
+
+Robustness:
+HS07 should be able to handle or recover from partial breakdowns as a total breakdown would cause economical loss by either damage to the home due to very low temperatures or overspending due to overheating.
+
+Modifiability:
+It should be easy to implement new communication protocol/channel/method.
+It must be possible to modify HS07 to include new types of sensors and actuators. 
+
+Performance:
+The system shall be able to heat the house when it is turned on.
+HS07 should be performant so that a large number of thermometers and radiators may be part of the system.
+System should be stable and not turn the heat up and down.
+It should be friendly to the environment, by not using too much electricity and heat.
+Our system must live up to the requirements of an envrionment friendly certificate and a quality certificate.
+
+Security:
+Only the owner of the home should be able to access and control the system from the Internet.
+
+Testability:
+It should be easy to test for an external quality ensurance company how good quality the system is.
+
+Usability:
+It should be easy to turn it on from the internet.
+The system should have an appealing design such that people do want to have it in their home.
+
+Economy:
+System should be affordable for an average family.
+The system should be cheap to manufacture.

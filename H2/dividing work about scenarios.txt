@@ -1,0 +1,7 @@
+Ivan: Availability
+
+Gerado: Testability
+
+Daniel: Security
+
+Martin: Performance

@@ -1,0 +1,31 @@
+Daniel Home Owner
+Ivan CEO of the HS07 manufacturing company
+Gerado Team leader of development team /Architect
+Martin Marketing Guy
+
+System should be stable and not turn the heat up and down.
+System should be affordable for an average family with a house of 200m^2.
+It should be easy to turn it on from the internet.
+It should be easy to fix the system when it is broken.
+
+Should be manufactered from standard parts (are cheaper than special parts).
+The system should be cheap to manufacture.
+The system should not be compatible with competitors products (we are the market leader)
+
+The system should have an appealing design such that people do want to have it in their home.
+
+It should be friendly to the environment, by not using too much electricity and heat.
+
+It should be easy to test for an external quality ensurance company how good quality the system is.
+
+It should be possible to get an evironment friendly certificate and a quality ensurance certificate for the system.
+
+It should be easy to implement new communication protocol/channel/method.
+
+It must be possible to modify HS07 to include new types of sensors and actuators. 
+
+HS07 should be performant so that a large number of thermometers and radiators may be part of the system. 
+
+HS07 should be able to handle or recover from partial breakdowns as a total breakdown would cause economical loss by either damage to the home due to very low temperatures or overspending due to overheating.
+
+Only the owner of the home should be able to access and control the system from the Internet.
