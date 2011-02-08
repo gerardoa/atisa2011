@@ -28,8 +28,10 @@ It should be easy to test for an external quality ensurance company how good qua
 
 Usability:
 It should be easy to turn it on from the internet.
+
+Design:
 The system should have an appealing design such that people do want to have it in their home.
 
-Economy:
+Business:
 System should be affordable for an average family.
 The system should be cheap to manufacture.
