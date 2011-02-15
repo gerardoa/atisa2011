@@ -1,0 +1,1 @@
+non-risk: the gateway is 1 and he waits the thermometes to respond, so non multiple requests can reach the thermometer.
