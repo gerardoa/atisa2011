@@ -1,0 +1,47 @@
+Evaluation team
+----------------
+Daniel:
+Evaluation leader
+Timekeeper
+Team Leader
+
+Martin: 
+Scenario scribe
+Process enforcer
+Process observer
+
+Ivan: 
+Proceedings scribe
+Questioner
+
+
+Project decision makers
+-----------------
+Gerado:
+Architect
+
+Daniel:
+Customer
+
+Martin:
+Project manager
+
+The person commissioning the evaluation:
+Ivan
+
+Architectual stakeholders
+-----------------
+Daniel:
+Home Owner
+Developer
+
+Ivan:
+CEO of the HS07 manufacturing company
+
+Gerado:
+Team leader of development team /Architect
+Tester
+
+Martin:
+Chief of Marketing
+Maintainer
